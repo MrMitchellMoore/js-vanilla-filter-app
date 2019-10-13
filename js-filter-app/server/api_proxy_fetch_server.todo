@@ -1,22 +1,23 @@
-# js-vanilla-filter-app
-
-js vanilla filter app that is a little challenging.
-
 Build an API Proxy Server with node.js/express and a Filterable List with Vanilla JS:
 
 API Proxy Server:
 
     ☐ Create Server Folder
     ☐ npm install express morgan cors dotenv
-    ☐ GET route to proxy API request
+    ☐ GET route to proxy API request @critical
     ☐ 404 handler
     ☐ Error Handler
-    ☐ Deploy!
+    ☐ Deploy! @critical  
+
 
 Filterable List With Vanilla JS:
 
-    ☐ API request to proxy server
+    ☐ API request to proxy server @critical
     ☐ Add results to page
     ☐ Add filter form to page
     ☐ Filter list on keyup
-    ☐ Debounce filtering for performance
+    ☐ Debounce filtering for performance *if needed
+    ☐ Deploy! @critical
+
+
+ 
